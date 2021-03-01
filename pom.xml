@@ -1,0 +1,61 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>br.com</groupId>
+  <artifactId>agent</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>agente-bdi-maven</name>
+  <description>projeto de agente bdi com maven</description>
+<repositories>
+    <repository>
+      <id>jcenter</id>
+      <url>https://jcenter.bintray.com/</url>
+    </repository>
+</repositories>
+<dependencies>
+		<dependency>
+			<groupId>com.github.javaparser</groupId>
+			<artifactId>javaparser-core</artifactId>
+			<version>3.6.0</version>
+		</dependency>
+		<dependency>
+		    <groupId>org.activecomponents.jadex</groupId>
+		    <artifactId>jadex-kernel-component</artifactId>
+		    <version>3.0.95</version>
+		</dependency>	
+		<dependency>
+		    <groupId>org.activecomponents.jadex</groupId>
+		    <artifactId>jadex-bridge</artifactId>
+		    <version>3.0.95</version>
+		</dependency>		
+		<dependency>
+		    <groupId>org.activecomponents.jadex</groupId>
+		    <artifactId>jadex-commons</artifactId>
+		    <version>3.0.95</version>
+		</dependency>	
+		<dependency>
+		    <groupId>org.activecomponents.jadex</groupId>
+		    <artifactId>jadex-kernel-bdiv3</artifactId>
+		    <version>3.0.95</version>
+		</dependency>
+<dependency>
+    <groupId>org.activecomponents.jadex</groupId>
+    <artifactId>jadex-platform</artifactId>
+    <version>3.0.95</version>
+</dependency>		
+		<dependency>
+		    <groupId>org.activecomponents.jadex</groupId>
+		    <artifactId>jadex-kernel-micro</artifactId>
+		    <version>3.0.95</version>
+		</dependency>						
+		<dependency>
+			<groupId>com.github.mauricioaniche</groupId>
+			<artifactId>ck</artifactId>
+			<version>0.2.1</version>
+		</dependency>
+
+
+	
+	
+
+	</dependencies>  
+</project>

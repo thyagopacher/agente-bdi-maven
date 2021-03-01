@@ -1,0 +1,17 @@
+16:53:2 -> =====================================
+Starting the Agent ...
+16:53:2 -> Plan finished successfully DirectoryPlan
+16:53:2 -> Plan finished successfully ScanDirectoryPlan
+16:53:2 -> Plan finished successfully MeasurePlan
+16:53:2 -> Analisando path: C:\codigo-fonte\programa-java\exemplo-cavado-Liu-strategy\src\br\com\padrao\MovieTicket.java
+16:53:4 -> Plan finished successfully FileExtensionPlan: C:\codigo-fonte\programa-java\exemplo-cavado-Liu-strategy\src\br\com\padrao\MovieTicket.java
+16:53:4 -> Plan finished successfully ExtractorPlan
+16:53:5 -> Design Pattern SingletonPlan is applicable for this class...
+16:53:5 -> Design Pattern StrategyPlan is applicable for this class...
+16:53:5 -> Design Pattern FactoryMethodPlan is not applicable...
+16:53:5 -> Design Pattern NullObjectPlan is not applicable...
+16:53:5 -> Plan finished successfully RefactoringPlan
+16:53:5 -> Plan finished successfully MeasurePlan
+16:53:2 -> Measure class metrics after refactoring
+16:53:5 -> Plan finished successfully CheckImprovementPlan
+16:53:5 -> Plan finished successfully ShowTablePlan
